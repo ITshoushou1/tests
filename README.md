@@ -1,2 +1,2 @@
 # tests
-Thead Tests
+Thread Tests
